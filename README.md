@@ -9,3 +9,4 @@
 ### 記事からの変更点
 - RailsとNuxtで別々のGit管理をしているが、上位のtodo-listで一元でgit管理するようにした
 - [Nuxt.js 2.13.0以降、コンポーネントを自動で/componentsからインポートしてくれるようになった為、import xxx from yyyが不要](https://nuxtjs.org/releases/)
+- roots_controller.rb -> hello_controller.rb
